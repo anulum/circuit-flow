@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "CIRCUIT-FLOW",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "d12b3cfc7e7bbe0954af3961a5ecadc0af67846f0063b032ece7d25a545b2db2"
+  }
+}

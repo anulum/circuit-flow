@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for deterministic directed-acyclic-graph orchestration and design-step learning records: run plans, run observations, crash quarantine, post-merge re-verification and provenance-complete design-step learning records. No flow dispatcher, run-observation recorder, crash-quarantine runner or registered record format is released.",
+  "keywords": [
+    "workflow orchestration",
+    "directed acyclic graph",
+    "design-step learning records",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Circuit Flow",
+  "upload_type": "software"
+}
