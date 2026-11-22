@@ -3,13 +3,14 @@
   "claims": [],
   "domain_runtime_dependencies": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "owner_group": "SC-NEUROMORPHIC-COMPUTING-SYSTEMS",
   "planned_owned_schema_ids": [
     "circuit_flow.run_plan.v1",
     "circuit_flow.run_observation.v1",
     "circuit_flow.design_step_learning_record.v1"
   ],
+  "public_remote": "https://github.com/anulum/circuit-flow",
   "qualified_owned_schema_ids": [],
   "repository_name": "CIRCUIT-FLOW",
   "tooling_python": {

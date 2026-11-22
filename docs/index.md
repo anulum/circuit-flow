@@ -12,4 +12,6 @@ CIRCUIT-FLOW — repository foundation
 
 Circuit Flow is being built as the single directed-acyclic-graph dispatcher of the circuit platform. It plans and observes multi-step runs, executes deterministic no-model reference paths, quarantines crashes, re-verifies merged design branches and emits provenance-complete learning records without knowing any board, process design kit or domain solver physics. Its current executable surface is repository validation tooling. It has no installed flow dispatcher, run-observation recorder, crash-quarantine runner or qualified record schema.
 
+Circuit Flow is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 Read [Architecture](ARCHITECTURE.md), [validation tooling](validation-tooling.md), [data boundaries](THREAT_MODEL.md) and the [repository boundary decision](adr/0001-repository-boundary.md).
